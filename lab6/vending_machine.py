@@ -1,3 +1,4 @@
+
 PRICES = {"cola": 150, "chips": 100, "candy": 75}
 COINS = [100, 50, 25, 10, 5]
 
